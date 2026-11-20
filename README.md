@@ -26,3 +26,8 @@ exploratory data analysis, statistical analysis and evidence-based interpretatio
 
 ## Author
 Maxwell Odhiambo
+
+## Report
+📄 [Full written analysis (PDF)](report/postgraduate_regulations_report.pdf)
+
+**Headline findings:** doctoral examination and submission procedures are the strongest provisions (89.3%% Yes); supervisor–student ratios are the weakest (28.6%% Yes, 42.9%% No); eight provisions fall below 50%% Yes and all concern supervision or doctoral progression.
